@@ -8,7 +8,7 @@ public class SampleProject {
 		c="Hello world!";
 		return c;
 	}
-	public static int add(int a,int b) {
+	/*public static int add(int a,int b) {
 		
 		int c= a+b;
 		return c;
@@ -16,5 +16,5 @@ public class SampleProject {
 	public static void main(String args[]) {
 		System.out.println(printHello());
 		System.out.println(add(23,45));
-	}
+	}*/
 }
