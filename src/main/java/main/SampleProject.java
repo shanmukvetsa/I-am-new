@@ -4,8 +4,8 @@ public class SampleProject {
 	//print  Hello world! in the console
 	public static String printHello() {
 		//print Hello world! in the console!
-		String c = "";
-		c="Hello world!";
+		String c = "Hello world!";
+		
 		return c;
 	}
 	public static int add(int a,int b) {
